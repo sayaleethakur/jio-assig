@@ -1,6 +1,5 @@
 public class Password {
  
-    // A utility function to check
     // whether a password is valid or not
     public static boolean isValid(String password)
     {
